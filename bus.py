@@ -96,7 +96,7 @@ print("Каккие и кем заняты места:", bus.seats)
 print()
 
 if "Саша" in bus:
-    print("Mike is on the bus.")
+    print("Майк не в автобусе.")
 
 bus += "Глеб"
 
